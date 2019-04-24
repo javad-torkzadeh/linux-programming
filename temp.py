@@ -1,4 +1,4 @@
-input("enter temp")
+temp = input("enter temp")
 temp = float (temp)
 if temp < 14 :
     print("it is cold")
